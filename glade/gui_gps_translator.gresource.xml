@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/">
+    <file preprocess="to-pixdata">icon.ico</file>
+  </gresource>
+  <gresource prefix="/glade">
+    <file preprocess="xml-stripblanks">gui_gps_translator.glade</file>
+  </gresource>
+</gresources>
